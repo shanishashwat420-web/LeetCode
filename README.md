@@ -16,4 +16,9 @@
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shanishashwat420-web/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/shanishashwat420-web/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
