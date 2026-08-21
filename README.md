@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/shanishashwat420-web/LeetCode/tree/master/0018-4sum) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shanishashwat420-web/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0611-valid-triangle-number](https://github.com/shanishashwat420-web/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/shanishashwat420-web/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -26,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/shanishashwat420-web/LeetCode/tree/master/0018-4sum) |
 | [0611-valid-triangle-number](https://github.com/shanishashwat420-web/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
@@ -34,5 +36,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/shanishashwat420-web/LeetCode/tree/master/0018-4sum) |
 | [0611-valid-triangle-number](https://github.com/shanishashwat420-web/LeetCode/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
