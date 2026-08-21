@@ -38,4 +38,8 @@
 | ------- |
 | [0018-4sum](https://github.com/shanishashwat420-web/LeetCode/tree/master/0018-4sum) |
 | [0611-valid-triangle-number](https://github.com/shanishashwat420-web/LeetCode/tree/master/0611-valid-triangle-number) |
+## String
+|  |
+| ------- |
+| [1446-consecutive-characters](https://github.com/shanishashwat420-web/LeetCode/tree/master/1446-consecutive-characters) |
 <!---LeetCode Topics End-->
