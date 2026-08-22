@@ -25,6 +25,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shanishashwat420-web/LeetCode/tree/master/0043-multiply-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -44,9 +45,14 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shanishashwat420-web/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0043-multiply-strings](https://github.com/shanishashwat420-web/LeetCode/tree/master/0043-multiply-strings) |
 | [1446-consecutive-characters](https://github.com/shanishashwat420-web/LeetCode/tree/master/1446-consecutive-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shanishashwat420-web/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/shanishashwat420-web/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
