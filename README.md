@@ -43,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/shanishashwat420-web/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [1446-consecutive-characters](https://github.com/shanishashwat420-web/LeetCode/tree/master/1446-consecutive-characters) |
 ## Divide and Conquer
 |  |
