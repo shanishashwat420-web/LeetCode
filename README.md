@@ -24,6 +24,7 @@
 | [0611-valid-triangle-number](https://github.com/shanishashwat420-web/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/shanishashwat420-web/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shanishashwat420-web/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/shanishashwat420-web/LeetCode/tree/master/0456-132-pattern) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shanishashwat420-web/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
