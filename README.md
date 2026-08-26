@@ -11,6 +11,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/shanishashwat420-web/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/shanishashwat420-web/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shanishashwat420-web/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Interactive
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/shanishashwat420-web/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/shanishashwat420-web/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shanishashwat420-web/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shanishashwat420-web/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
