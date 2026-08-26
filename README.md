@@ -88,4 +88,8 @@
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shanishashwat420-web/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/shanishashwat420-web/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
