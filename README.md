@@ -57,6 +57,7 @@
 | [0415-add-strings](https://github.com/shanishashwat420-web/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/shanishashwat420-web/LeetCode/tree/master/0504-base-7) |
 | [1446-consecutive-characters](https://github.com/shanishashwat420-web/LeetCode/tree/master/1446-consecutive-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shanishashwat420-web/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shanishashwat420-web/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shanishashwat420-web/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
