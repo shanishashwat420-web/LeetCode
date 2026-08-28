@@ -68,6 +68,7 @@
 | [0043-multiply-strings](https://github.com/shanishashwat420-web/LeetCode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/shanishashwat420-web/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/shanishashwat420-web/LeetCode/tree/master/0504-base-7) |
+| [2427-number-of-common-factors](https://github.com/shanishashwat420-web/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Stack
 |  |
 | ------- |
@@ -92,4 +93,20 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/shanishashwat420-web/LeetCode/tree/master/0476-number-complement) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/shanishashwat420-web/LeetCode/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/shanishashwat420-web/LeetCode/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/shanishashwat420-web/LeetCode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/shanishashwat420-web/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
