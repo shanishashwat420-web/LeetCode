@@ -92,6 +92,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0461-hamming-distance](https://github.com/shanishashwat420-web/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/shanishashwat420-web/LeetCode/tree/master/0476-number-complement) |
 ## Enumeration
 |  |
