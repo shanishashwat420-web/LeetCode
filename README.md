@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shanishashwat420-web/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shanishashwat420-web/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/shanishashwat420-web/LeetCode/tree/master/0018-4sum) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shanishashwat420-web/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -86,6 +87,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shanishashwat420-web/LeetCode/tree/master/0001-two-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shanishashwat420-web/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
