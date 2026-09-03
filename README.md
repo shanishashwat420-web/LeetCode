@@ -131,4 +131,8 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/shanishashwat420-web/LeetCode/tree/master/0867-transpose-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shanishashwat420-web/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
