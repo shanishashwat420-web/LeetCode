@@ -83,6 +83,7 @@
 | [0415-add-strings](https://github.com/shanishashwat420-web/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/shanishashwat420-web/LeetCode/tree/master/0504-base-7) |
 | [2427-number-of-common-factors](https://github.com/shanishashwat420-web/LeetCode/tree/master/2427-number-of-common-factors) |
+| [3871-count-commas-in-range-ii](https://github.com/shanishashwat420-web/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
