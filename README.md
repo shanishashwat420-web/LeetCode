@@ -38,6 +38,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/shanishashwat420-web/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -143,4 +144,5 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/shanishashwat420-web/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
