@@ -36,6 +36,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shanishashwat420-web/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shanishashwat420-web/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -84,6 +85,7 @@
 | [0415-add-strings](https://github.com/shanishashwat420-web/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/shanishashwat420-web/LeetCode/tree/master/0504-base-7) |
 | [2427-number-of-common-factors](https://github.com/shanishashwat420-web/LeetCode/tree/master/2427-number-of-common-factors) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/shanishashwat420-web/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
@@ -107,6 +109,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shanishashwat420-web/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sliding Window
 |  |
 | ------- |
