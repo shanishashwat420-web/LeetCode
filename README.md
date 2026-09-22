@@ -30,6 +30,7 @@
 | [0611-valid-triangle-number](https://github.com/shanishashwat420-web/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0867-transpose-matrix](https://github.com/shanishashwat420-web/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/shanishashwat420-web/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0912-sort-an-array) |
 | [0962-maximum-width-ramp](https://github.com/shanishashwat420-web/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shanishashwat420-web/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -65,6 +66,7 @@
 | [0018-4sum](https://github.com/shanishashwat420-web/LeetCode/tree/master/0018-4sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/shanishashwat420-web/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0912-sort-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shanishashwat420-web/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -148,4 +151,24 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shanishashwat420-web/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
