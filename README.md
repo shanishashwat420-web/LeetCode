@@ -80,6 +80,7 @@
 | [0415-add-strings](https://github.com/shanishashwat420-web/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/shanishashwat420-web/LeetCode/tree/master/0504-base-7) |
 | [1446-consecutive-characters](https://github.com/shanishashwat420-web/LeetCode/tree/master/1446-consecutive-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shanishashwat420-web/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shanishashwat420-web/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Divide and Conquer
 |  |
@@ -102,6 +103,7 @@
 | ------- |
 | [0456-132-pattern](https://github.com/shanishashwat420-web/LeetCode/tree/master/0456-132-pattern) |
 | [0962-maximum-width-ramp](https://github.com/shanishashwat420-web/LeetCode/tree/master/0962-maximum-width-ramp) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shanishashwat420-web/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/1095-find-in-mountain-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shanishashwat420-web/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
