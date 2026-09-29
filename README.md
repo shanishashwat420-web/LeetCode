@@ -84,6 +84,7 @@
 | [0504-base-7](https://github.com/shanishashwat420-web/LeetCode/tree/master/0504-base-7) |
 | [1446-consecutive-characters](https://github.com/shanishashwat420-web/LeetCode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shanishashwat420-web/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shanishashwat420-web/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shanishashwat420-web/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Divide and Conquer
 |  |
@@ -122,12 +123,14 @@
 | [0001-two-sum](https://github.com/shanishashwat420-web/LeetCode/tree/master/0001-two-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shanishashwat420-web/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shanishashwat420-web/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sliding Window
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shanishashwat420-web/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shanishashwat420-web/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
 |  |
@@ -184,6 +187,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0912-sort-an-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shanishashwat420-web/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quickselect
 |  |
 | ------- |
