@@ -39,6 +39,7 @@
 | [1095-find-in-mountain-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2784-check-if-array-is-good](https://github.com/shanishashwat420-web/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shanishashwat420-web/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -75,6 +76,7 @@
 | [0611-valid-triangle-number](https://github.com/shanishashwat420-web/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0912-sort-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2784-check-if-array-is-good](https://github.com/shanishashwat420-web/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shanishashwat420-web/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2784-check-if-array-is-good](https://github.com/shanishashwat420-web/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shanishashwat420-web/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
