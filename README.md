@@ -36,6 +36,7 @@
 | [0912-sort-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0912-sort-an-array) |
 | [0962-maximum-width-ramp](https://github.com/shanishashwat420-web/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shanishashwat420-web/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1051-height-checker](https://github.com/shanishashwat420-web/LeetCode/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -75,6 +76,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/shanishashwat420-web/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/shanishashwat420-web/LeetCode/tree/master/1051-height-checker) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2784-check-if-array-is-good](https://github.com/shanishashwat420-web/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## String
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/shanishashwat420-web/LeetCode/tree/master/1051-height-checker) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shanishashwat420-web/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quickselect
 |  |
@@ -206,4 +209,8 @@
 | ------- |
 | [0856-score-of-parentheses](https://github.com/shanishashwat420-web/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shanishashwat420-web/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/shanishashwat420-web/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
