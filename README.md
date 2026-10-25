@@ -28,6 +28,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shanishashwat420-web/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0456-132-pattern](https://github.com/shanishashwat420-web/LeetCode/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/shanishashwat420-web/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/shanishashwat420-web/LeetCode/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/shanishashwat420-web/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0962-maximum-width-ramp](https://github.com/shanishashwat420-web/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shanishashwat420-web/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/shanishashwat420-web/LeetCode/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/shanishashwat420-web/LeetCode/tree/master/0962-maximum-width-ramp) |
 ## Ordered Set
 |  |
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shanishashwat420-web/LeetCode/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/shanishashwat420-web/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shanishashwat420-web/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
