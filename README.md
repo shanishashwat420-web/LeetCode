@@ -14,6 +14,7 @@
 | [0875-koko-eating-bananas](https://github.com/shanishashwat420-web/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shanishashwat420-web/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shanishashwat420-web/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Interactive
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shanishashwat420-web/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/shanishashwat420-web/LeetCode/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shanishashwat420-web/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2784-check-if-array-is-good](https://github.com/shanishashwat420-web/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -66,6 +68,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/shanishashwat420-web/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0962-maximum-width-ramp](https://github.com/shanishashwat420-web/LeetCode/tree/master/0962-maximum-width-ramp) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shanishashwat420-web/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
@@ -81,6 +84,7 @@
 | [0611-valid-triangle-number](https://github.com/shanishashwat420-web/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/shanishashwat420-web/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/shanishashwat420-web/LeetCode/tree/master/1051-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shanishashwat420-web/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shanishashwat420-web/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2784-check-if-array-is-good](https://github.com/shanishashwat420-web/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## String
